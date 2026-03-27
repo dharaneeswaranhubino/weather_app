@@ -1,2 +1,2 @@
 netlify web url:
-https://weather-webapp-react-ts.netlify.app/
+https://weather-app-beige-two-41.vercel.app/
